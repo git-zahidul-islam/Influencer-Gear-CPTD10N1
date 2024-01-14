@@ -1,0 +1,19 @@
+/* font style added */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Manrope:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap');
+/* common style here */
+:root {
+    --btn-background: #E02C6D;
+    --primary-font-color: #3A3A3A;
+    --secondary-font-color: #0A0826;
+    --product-title-font-color: #18191F;
+    --price-font-color: rgba(0, 0, 0, 0.87);
+    --rating-number-font-color: #5E6366;
+    --product-des-font-color: #787885;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
